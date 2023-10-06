@@ -59,7 +59,6 @@
         <SkillRate name="C#" :rate="3" />
         <SkillRate name="Unity Engine" :rate="3" />
         <SkillRate name="Lua" :rate="3" />
-        <SkillRate name="Hand to hand combat" :rate="5" />
       </div>
 
       <div class="skill-set">
