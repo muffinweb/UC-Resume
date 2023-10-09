@@ -4,7 +4,7 @@
 
     <div class="paragraph">
       I'm <strong>Uğur Cengiz</strong>, 4 years experienced Software Developer. I develop Web App Solutions, 2D 3D Games, and useful tools.
-      I've knowledge of designing software artitect, producing algorithmic solutions, containerizing, creating CI/CD pipelines and document stuff.
+      I've knowledge of designing software architect, producing algorithmic solutions, containerizing, creating CI/CD pipelines and document stuff.
       My goal in App Development Scene is developing self-contained, sustainable products.
       <br />
       <br />I use Unity Game Engine to make 2D, 3D games. I can manage Humonoid Chacacters/Animation Controls, create shooter mechanics, design UI and so on.
