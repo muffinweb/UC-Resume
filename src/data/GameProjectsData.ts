@@ -10,7 +10,7 @@ export default [
         <video style="width: 80%" src="img/projects/runnerla-vid.mp4" autoplay="" loop="" />
     </div>
     <div class="paragraph center">
-        <a href="" target="_blank"><img width="184" src="img/projects/itchio-logo.png" alt="Itch.io Badge" /></a>
+        <a href="https://muffinweb.itch.io/rn-la" target="_blank"><img width="184" src="img/projects/itchio-logo.png" alt="Itch.io Badge" /></a>
     </div>
 
     <div class="paragraph">
