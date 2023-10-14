@@ -22,12 +22,6 @@ export default [
         <li>Menu / UI</li>
         </ul>
     </div>
-    
-    <div class="paragraph">
-      <div class="notice">
-        Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-      </div>
-    </div>,
     `, "#8115afdd", true, true, true),
     new ProjectData("secrecdooroblo", "SecretDooroblo - Roblox", "img/projects/secretDooroblo.gif", `
     <div class="paragraph">
@@ -73,12 +67,6 @@ export default [
         <li>Fireball Particles</li>
         <li>Walking and Idle Animations/Transitions</li>
         </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
     </div>
     `, "#2120264a", false, true, true),
     new ProjectData("drum2d", "Drum 2D", "img/projects/drum2d.webp", `
