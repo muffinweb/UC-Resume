@@ -28,6 +28,13 @@
     <div class="full-content">
       <h2>Work experience</h2>
 
+      <h3>Freelance</h3>
+      <h4>2023 - ~</h4>
+
+      <div>Project based freelance sofware and consulting service</div>
+
+      <div class="tech-stack">Unity, Node.js, .Net Core, Laravel, CI/CD, Docker, Data Scrape</div>
+
       <h3>Tagum</h3>
       <h4>2020-2023</h4>
 
